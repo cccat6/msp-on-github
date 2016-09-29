@@ -12,4 +12,5 @@
 10. 杨宇星 <https://github.com/yyx290799684>
 11. 谢霄阳 <https://github.com/WindroidBot>
 12. 柯于旺 <https://github.com/NoMasp>
+13. 丘双华 <https://https://github.com/Aureate-Sunshine>
 > 欢迎补充，欢迎互相 *Follow*
