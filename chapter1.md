@@ -1,4 +1,4 @@
-# Msp on Gayhub
+# MSP on Gayhub
 
 1. 张昌伟 <https://github.com/ChangweiZhang>
 2. 潘峰 <https://github.com/JeffVipPan>
@@ -14,4 +14,5 @@
 12. 柯于旺 <https://github.com/NoMasp>
 13. 丘双华 <https://github.com/Aureate-Sunshine>
 14. 骆融臻 <https://github.com/CalvinNeo>
-> 欢迎补充，欢迎互相 *Follow*
+
+欢迎补充，欢迎互相 *Follow*
