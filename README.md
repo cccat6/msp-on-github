@@ -2,7 +2,7 @@
 
 MSP Github 账号收集，欢迎补充，欢迎互相follow
 
-# MSP on Gayhub
+### MSP Github Accounts
 
 1. 张昌伟 <https://github.com/ChangweiZhang>
 1. 潘峰 <https://github.com/JeffVipPan>
