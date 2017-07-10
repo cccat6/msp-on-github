@@ -19,5 +19,6 @@ MSP Github 账号收集，欢迎补充，欢迎互相follow
 1. 丘双华 <https://github.com/Aureate-Sunshine>
 1. 骆融臻 <https://github.com/CalvinNeo>
 1. 胡鼎原 <https://github.com/qin-nz>
+1. 李桑郁 <https://github.com/SylvesterLi>
 
 欢迎补充，欢迎互相 *Follow*
