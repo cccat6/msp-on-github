@@ -26,5 +26,6 @@ MSP Github 账号收集，欢迎补充，欢迎互相follow
 20. 夏浩耘 https://github.com/xiahaoyun
 21. 张明群 https://github.com/zmqcherish
 22. 张森 https://github.com/A1ter
+23. 侯宝龙 https://github.com/houbaron
 
 欢迎补充，欢迎互相 *Follow*
